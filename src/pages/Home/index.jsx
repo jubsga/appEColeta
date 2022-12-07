@@ -26,7 +26,7 @@ export default function Home() {
                     source={require('../../assets/logo.png')}/>
 
                 <Text style={styles.title}>
-                    Seu marketplace de coleta de residuos
+                    Seu marketplace de coleta de produtos reciclaveis
                 </Text>
 
                 <Text style={styles.description}>
